@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenvs and dependency/build artifacts
+.venv*/
+venv/
+node_modules/
+
+# Nested repos converted to plain dirs (history kept locally as .git_disabled)
+.git_disabled/
+
+# Large binary assets
+forked-repositories/Hunyuan3D-2/assets/report/Tencent_Hunyuan3D_2_0.pdf
+forked-repositories/Hunyuan3D-2/assets/images/e2e-2.gif
+forked-repositories/Hunyuan3D-2/assets/images/e2e-1.gif
